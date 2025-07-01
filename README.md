@@ -1,2 +1,1 @@
-# Corscors
-Zz
+# Corspriv
